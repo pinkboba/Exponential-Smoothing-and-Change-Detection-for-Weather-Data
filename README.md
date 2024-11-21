@@ -31,4 +31,4 @@ temps.txt: Raw temperature data.
 
 Holt Winters.R: R script for data processing, model fitting, and analysis.
 
-CUSUM Calculations in Excel.xlsx: Output file containing seasonal factors and calculated CUSUM results.
+smoothed.csv (renamed CUSUM Calculations in Excel.xlsx for readability) : Output file containing seasonal factors and calculated CUSUM results.
