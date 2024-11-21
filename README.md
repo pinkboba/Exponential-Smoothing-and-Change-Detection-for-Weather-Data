@@ -26,6 +26,9 @@ Performed a CUSUM analysis on the seasonal factors to detect shifts in the timin
 
 Repository Contents:
 
+
 temps.txt: Raw temperature data.
+
 Holt Winters.R: R script for data processing, model fitting, and analysis.
+
 CUSUM Calculations in Excel.xlsx: Output file containing seasonal factors and calculated CUSUM results.
