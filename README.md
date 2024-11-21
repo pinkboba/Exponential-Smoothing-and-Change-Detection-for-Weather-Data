@@ -8,11 +8,12 @@ This project investigates whether the unofficial end of summer in Atlanta has sh
 Data:
 
 20 years of daily high-temperature data for Atlanta (July through October) stored in temps.txt.
-Methodology:
 
 Exponential Smoothing:
 
 Employed the HoltWinters function in R to implement triple exponential smoothing (Holt-Winters method) with an additive trend and multiplicative seasonality (model = "AAM"). This model accounts for both trend and seasonality in the time series data.
+
+
 Seasonality Analysis:
 
 Extracted the fitted seasonal values from the exponential smoothing model.
